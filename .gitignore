@@ -1,0 +1,9 @@
+.bash_logout
+.cloud-locale-test.skip
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+keys/
+mycert.pem
+mykey.key
+
